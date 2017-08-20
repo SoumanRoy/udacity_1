@@ -41,4 +41,4 @@ The content of this repository is licensed under a Creative Commons Attribution 
 ## Acknowledgments
 
 * This Project is a part of Machine Learning Foundation Nanodegree by Udacity.
-* This Project will also helps in establishing foundation in core programming concepts using Python.
+* This will also helps in establishing foundation in core programming concepts using Python.
